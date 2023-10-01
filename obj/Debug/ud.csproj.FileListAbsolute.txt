@@ -1,0 +1,17 @@
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\libcurl.dll
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\LibCurlShim.dll
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\ud.exe.config
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\ud.exe
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\ud.pdb
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\Guna.UI2.dll
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\libcurl.NET.dll
+C:\Users\hunde\source\repos\ud\ud\bin\Debug\libcurl.NET.xml
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.csproj.AssemblyReference.cache
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.Form1.resources
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.Properties.Resources.resources
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.csproj.GenerateResource.cache
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.csproj.CoreCompileInputs.cache
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.csproj.CopyComplete
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.exe
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.pdb
+C:\Users\hunde\source\repos\ud\ud\obj\Debug\ud.Form2.resources
